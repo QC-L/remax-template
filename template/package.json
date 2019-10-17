@@ -5,7 +5,7 @@
   "description": "{{ description }}",
   "main": "index.js",
   "keywords": [],
-  "author": "{{ author }}",
+  "author": "{{{ author }}}",
   "license": "MIT",
   "scripts": {
     "dev": "remax build -t {{ platform }} -w",
